@@ -1,0 +1,4 @@
+SURUM=1.8
+ZIP=MakroKlavye-Kart-1.8.zip
+SHA256=78c0160d96ecc3fc3b39479950ac48779624be40bb0dc47c58748f7fd109aad0
+NOT=Uzun / çift basış süreleri ayarlanabilir, kart tanılama, encoder için uzun ve çift basış, çift basış düzeltmesi
