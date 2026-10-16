@@ -1,4 +1,4 @@
-SURUM=1.9
-ZIP=MakroKlavye-Kart-1.9.zip
-SHA256=1b65b03188245647e06716835a8a9a74a6f73b322acdc669cfc153ae46574a02
-NOT=Makrolarda tekrar adımı (son N adımı X kez) ve fare tekerleğiyle çok çentikli kaydırma
+SURUM=2.0
+ZIP=MakroKlavye-Kart-2.0.zip
+SHA256=cb8119132a15c6f87b682d13d58a0a4c8dfab7b1ce5423128756429c5ac0cbd5
+NOT=Türkçe Q klavye düzeni: metin ve makrolarda ç ş ğ ü ö ı yazılabilir
