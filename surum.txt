@@ -1,4 +1,4 @@
-SURUM=1.8
-ZIP=MakroKlavye-Kart-1.8.zip
-SHA256=78c0160d96ecc3fc3b39479950ac48779624be40bb0dc47c58748f7fd109aad0
-NOT=Uzun / çift basış süreleri ayarlanabilir, kart tanılama, encoder için uzun ve çift basış, çift basış düzeltmesi
+SURUM=1.9
+ZIP=MakroKlavye-Kart-1.9.zip
+SHA256=1b65b03188245647e06716835a8a9a74a6f73b322acdc669cfc153ae46574a02
+NOT=Makrolarda tekrar adımı (son N adımı X kez) ve fare tekerleğiyle çok çentikli kaydırma
