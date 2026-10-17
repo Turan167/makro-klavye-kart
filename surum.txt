@@ -1,4 +1,4 @@
-SURUM=2.1
-ZIP=MakroKlavye-Kart-2.1.zip
-SHA256=949b181db28b2cd427324debbf69cbdd5a0ef4f0796b18dfa6c486879583e467
-NOT=Metin yazma hızı ayarı (harfler arası bekleme)
+SURUM=2.2
+ZIP=MakroKlavye-Kart-2.2.zip
+SHA256=dd2706b483e77e207bbc50ee1dd5d36b2e46c0204eaec431bd7f1e6747e59f7a
+NOT=Yeni özel tuşlar (parlaklık, hesap makinesi, tarayıcı...), hata koruması, encoder yönü ve hassasiyeti
