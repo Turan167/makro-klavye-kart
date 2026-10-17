@@ -29,7 +29,8 @@ Kartta CircuitPython kurulu olmalı. Sonra:
 
 Bundan sonra kart yazılımı da uygulamadan güncellenir, dosya kopyalamak gerekmez.
 
-> Normal takıldığında `CIRCUITPY` sürücüsü bilgisayarda **salt okunur** görünür. Bu doğrudur: ayarları kart kendisi yazar.
+> Normal takıldığında `CIRCUITPY` sürücüsü bilgisayarda **görünmez**. Bu doğrudur: ayarları kart kendisi yazar,
+> yazılım güncellemesi de uygulamadan yapılır. Sürücüye yine ulaşmak gerekirse 9 numaralı tuşa basılı tutarak tak.
 
 ---
 
@@ -56,6 +57,8 @@ Tuşa sağ tıklayıp **ad, renk ve simge** verebilirsin (yalnızca uygulamada g
   **Makro** (çok adımlı), **Boş**.
 - En altta kategoriler: Genel, Düzenleme, Medya ve Ses, Tarayıcı, Pencere ve Sistem, Özel Tuşlar, Fare.
   En çok kullandıkların "Sık kullanılan"da toplanır.
+- **F13–F24**: gerçek klavyede olmayan fonksiyon tuşları. Bir tuşa ata, sonra OBS, Discord, AutoHotkey gibi
+  programların kısayol ayarında o tuşa bas: hiçbir kısayolla çakışmaz.
 
 ### Metin
 Türkçe harfler için Ayarlar > Kart > **KLAVYE AYARLARI**'ndan bilgisayarındaki düzeni seç (**Türkçe Q**, **Türkçe F** ya da İngilizce).
@@ -98,7 +101,8 @@ Klavyedeki LED tuşu (varsayılan 9 numaralı tuş) efektler arasında geçer.
 
 ## 6. Profiller, geçmiş, yedek
 - **Profiller**: farklı işler için ayrı tuş düzenleri (ör. "Oyun", "Toplantı"). Üst çubuktan ya da tepsi menüsünden tek tıkla geçilir.
-  Ayarlar > Profiller'deki **HAZIR PROFİLLER…** ile hazır düzenlerden başlanabilir.
+  Ayarlar > Profiller'deki **HAZIR PROFİLLER…** ile hazır düzenlerden başlanabilir: Ofis, Müzik ve medya, Tarayıcı,
+  Toplantı (Teams), Oyun ve yayın, Video düzenleme, Sayı tuş takımı, OBS Studio, Visual Studio, Sunum (PowerPoint).
 - **Geçmiş**: Klavyeye her yazışta o anki hâl otomatik saklanır (son 20). Ayarlar > Geçmiş'ten istediğin ana dönebilirsin;
   neyin değişeceği önceden gösterilir.
 - **Tam yedek**: Ayarlar > Profiller > **YEDEKLE…** her şeyi (profiller, makrolar, geçmiş, klavyedeki ayarlar) tek zip'e koyar.
