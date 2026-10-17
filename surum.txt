@@ -1,4 +1,4 @@
-SURUM=2.2
-ZIP=MakroKlavye-Kart-2.2.zip
-SHA256=dd2706b483e77e207bbc50ee1dd5d36b2e46c0204eaec431bd7f1e6747e59f7a
-NOT=Yeni özel tuşlar (parlaklık, hesap makinesi, tarayıcı...), hata koruması, encoder yönü ve hassasiyeti
+SURUM=2.3
+ZIP=MakroKlavye-Kart-2.3.zip
+SHA256=319a54dab1cd58d225da755c0d16d98f56a00a29868fe634dcfd1d0946cfa65a
+NOT=Güvenli güncelleme (yeni yazılım çalışmazsa eskisine döner), Türkçe F klavye, uyku engelleyici, USB adı "Makro Klavye"
