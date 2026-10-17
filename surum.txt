@@ -1,4 +1,4 @@
-SURUM=2.6
-ZIP=MakroKlavye-Kart-2.6.zip
-SHA256=2d62c21bd9d777b5d0d364740f3aa63907a4ae9b72e4758c3aee5e731a53588f
-NOT=CIRCUITPY sürücüsü yine bilgisayarda görünmüyor (9 numaralı tuşa basılı takınca görünür)
+SURUM=2.7
+ZIP=MakroKlavye-Kart-2.7.zip
+SHA256=4052fa7e03e12e066a2433e1e8835be02377264e2bd4ddae6f62280749afe62d
+NOT=Yeni komutlar: Windows arama, tarayıcı geri / ileri / yenile / durdur / sık kullanılanlar, medya oynatıcı
