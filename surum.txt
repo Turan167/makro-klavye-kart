@@ -1,4 +1,4 @@
-SURUM=2.0
-ZIP=MakroKlavye-Kart-2.0.zip
-SHA256=cb8119132a15c6f87b682d13d58a0a4c8dfab7b1ce5423128756429c5ac0cbd5
-NOT=Türkçe Q klavye düzeni: metin ve makrolarda ç ş ğ ü ö ı yazılabilir
+SURUM=2.1
+ZIP=MakroKlavye-Kart-2.1.zip
+SHA256=949b181db28b2cd427324debbf69cbdd5a0ef4f0796b18dfa6c486879583e467
+NOT=Metin yazma hızı ayarı (harfler arası bekleme)
