@@ -1,4 +1,4 @@
-SURUM=2.7
-ZIP=MakroKlavye-Kart-2.5.zip
-SHA256=b281305beb0d60c5a5a90170499f2dcdf0c75770d3dedc9b0b1110b87a85b814
-NOT=Makroda tuşu / fare tuşunu basılı tut ve bırak (sürükle-bırak), é ä ñ ß gibi yabancı harfleri yazma
+SURUM=2.6
+ZIP=MakroKlavye-Kart-2.6.zip
+SHA256=2d62c21bd9d777b5d0d364740f3aa63907a4ae9b72e4758c3aee5e731a53588f
+NOT=CIRCUITPY sürücüsü yine bilgisayarda görünmüyor (9 numaralı tuşa basılı takınca görünür)
